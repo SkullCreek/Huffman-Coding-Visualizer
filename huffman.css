@@ -81,3 +81,35 @@ h3{
     top: 20px;
     left: 255px;
 }
+
+table{
+    width: 50%;
+}
+
+th{
+    color: white;
+    background-color: #323232;
+    text-align: center;
+    padding: 10px;
+}
+td{
+    color: #323232;
+    background-color: #D8DADA;
+    text-align: center;
+    padding: 10px;
+}
+
+#represent{
+    
+}
+h4{
+    color: #323232;
+    padding: 30px;
+}
+span{
+    color: #323232;
+}
+pre{
+    font-weight: bold;
+    padding: 0px 40px;
+}
