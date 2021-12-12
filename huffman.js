@@ -65,7 +65,6 @@
       }
 
         
-        
    // main function   
   // number of characters.
   var var1, var2, var3, var4, var5, var6;
@@ -202,6 +201,7 @@
               // add this node to the priority-queue.
               q.push(f);
               q.sort(function(a,b){return a.data-b.data;});
+              console.log(q.sort);
 
             
 
